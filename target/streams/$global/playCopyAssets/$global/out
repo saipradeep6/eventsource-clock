@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy play resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(D:\ProjectWork\play-2.2.6\samples\java\eventsource-clock\public\images\favicon.png,D:\ProjectWork\play-2.2.6\samples\java\eventsource-clock\target\scala-2.10\classes\public\images\favicon.png)[0m
+[0m[[0mdebug[0m] [0m	(D:\ProjectWork\play-2.2.6\samples\java\eventsource-clock\public\javascripts\jquery-1.7.1.min.js,D:\ProjectWork\play-2.2.6\samples\java\eventsource-clock\target\scala-2.10\classes\public\javascripts\jquery-1.7.1.min.js)[0m
+[0m[[0mdebug[0m] [0m	(D:\ProjectWork\play-2.2.6\samples\java\eventsource-clock\public\stylesheets\main.css,D:\ProjectWork\play-2.2.6\samples\java\eventsource-clock\target\scala-2.10\classes\public\stylesheets\main.css)[0m
