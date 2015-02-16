@@ -59,7 +59,7 @@ Seq[Any](_display_(Seq[Any](/*1.2*/main/*1.6*/ {_display_(Seq[Any](format.raw/*1
 }
                 /*
                     -- GENERATED --
-                    DATE: Tue Feb 10 15:03:47 IST 2015
+                    DATE: Mon Feb 16 19:34:49 IST 2015
                     SOURCE: D:/ProjectWork/play-2.2.6/samples/java/eventsource-clock/app/views/index.scala.html
                     HASH: 665113fd7b3bcb0541f086bafda25b64e8c79ffd
                     MATRIX: 864->1|875->5|913->7|1213->279|1242->280|1319->321|1334->327|1380->351|1468->411|1497->412|1608->495|1637->496|1674->506|1702->507|1736->513|1765->514|2019->741|2047->742
