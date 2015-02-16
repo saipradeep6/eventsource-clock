@@ -1,2 +1,25 @@
 play run
 build-module
+auto-test
+help
+show
+settings
+last
+last-grep
+tasks
+show test
+show compile
+show update
+cls
+help
+tasks
+show console
+show doc
+exit
+help
+help +
+help ++
+help last
+about
+test
+auto-test
