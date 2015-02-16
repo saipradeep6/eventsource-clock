@@ -23,3 +23,9 @@ help last
 about
 test
 auto-test
+show
+help
+show sbt
+show name
+show help
+sbt
