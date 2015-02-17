@@ -29,3 +29,4 @@ show sbt
 show name
 show help
 sbt
+test
