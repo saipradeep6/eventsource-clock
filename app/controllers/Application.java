@@ -45,14 +45,6 @@ public class Application extends Controller {
             );
         }
 
-        public static Result gitRequest() {
-  
-        System.out.println(request().body().asJson());
-
-        // parse
-        // invoke script 
-        return ok("received");
-        }
         
         List<EventSource> sockets = new ArrayList<EventSource>();
         SimpleDateFormat dateFormat = new SimpleDateFormat("HH mm ss");
