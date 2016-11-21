@@ -2,3 +2,4 @@ This a very simple EventSource demonstration pushing clock events from the serve
 
 - Creating a EventSource connection.
 - Using Akka.
+- Testing Dev Branch
